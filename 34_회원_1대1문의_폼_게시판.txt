@@ -1,0 +1,38 @@
+관리자(MyAdmin) 회원_1대1문의_폼_게시판  & 분석 & 기획 & 설계
+
+http://moonjong.dothome.co.kr/myadmin
+moonjong
+anstjswhd0105#
+
+
+[1] 프론트앤드
+    * 컴포넌트 구성
+    
+    
+[2] 백앤드 : 
+    
+    - 테스트 URL
+    http://moonjong.dothome.co.kr/kurly_green/
+
+
+[3] 데이터베이스
+    - 관리자 자주하는 질문 테이블
+
+    ```MYSQL        
+
+
+    ```
+
+
+[4] REST API 
+    
+
+
+
+
+
+
+
+
+
+
