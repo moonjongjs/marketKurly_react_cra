@@ -1,23 +1,25 @@
-마켓컬리(Market Kurly) Portfolio
+![마켓컬리 인트로](./img/마켓컬리_인트로.png)
+---
+마켓컬리(Market Kurly) Portfolio   
 ===
 
 
-# Project 제작 툴(Tool)
-
-## 프론트앤드(Front-End)
+# Project 제작 툴(Tool)   
+   
+## 프론트앤드(Front-End)   
 - Create React App
 - SASS
 - Redux
 - Router
-
-
+   
+   
 ## 백앤드(Back-End)
 - TypesSript
 - Node
 - php
 - MySQL
 
-
+   
 ## 배포(Deploy)
 
 - GitHub
@@ -32,11 +34,8 @@
 
 
 ---
-### 마켓컬리 인트로
----
-![마켓컬리 인트로](./img/마켓컬리_인트로.png)
----
-
+   
+   
 ### 최상위 컴포넌트
 ---
 - 최상위 컴포넌트 이미지
@@ -49,8 +48,9 @@
 ---
 <img src="./img/wrap_컴포넌트_이미지.jpg" width='300' title="최상위 컴포넌트" alt="최상위 컴포넌트"></img>
 ---
-
+      
 #### 리덕스(Redux Toolkit)
+   
 - ###### Reducer Codding
 ```js
     import { createSlice } from "@reduxjs/toolkit";
